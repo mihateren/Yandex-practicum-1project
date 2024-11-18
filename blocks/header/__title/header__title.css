@@ -1,0 +1,17 @@
+.header__title {
+    max-width: 730px;
+    width: 100%;
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: 600;
+    -webkit-text-decoration-color: #000000;
+    text-decoration-color: #000000;
+    margin: 0 0 0 64px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    z-index: 2;
+}
